@@ -1,5 +1,3 @@
-# sentiment-collection
-
 # Crypto sentiment collector api access overview
 
 This repository documents the planned Reddit API usage for a private read-only sentiment collection system.
